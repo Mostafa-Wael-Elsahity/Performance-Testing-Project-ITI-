@@ -1,0 +1,4 @@
+userId,password,repeatedPassword,firstName,lastName,email,phone,address1,address2,city,state,zip,country,languagePreference,favouriteCategory,listOption,bannerOption
+mostafa,mostafa,mostafa,mostafa,wael,mostafa@gmail.com,01000000000,cairo,giza,cairo,cairo,55555,egypt,english,FISH,true,true
+mohamed,mohamed,mohamed,mohamed,wael,mohamed@gmail.com,01000000000,cairo,giza,cairo,cairo,55555,egypt,japanese,FISH,false,false
+
